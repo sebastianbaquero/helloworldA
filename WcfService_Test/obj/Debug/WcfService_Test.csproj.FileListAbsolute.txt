@@ -1,0 +1,7 @@
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\WcfService_Test\bin\WcfService_Test.dll.config
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\WcfService_Test\bin\WcfService_Test.dll
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\WcfService_Test\bin\WcfService_Test.pdb
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\WcfService_Test\obj\Debug\WcfService_Test.csprojAssemblyReference.cache
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\WcfService_Test\obj\Debug\WcfService_Test.csproj.CoreCompileInputs.cache
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\WcfService_Test\obj\Debug\WcfService_Test.dll
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\WcfService_Test\obj\Debug\WcfService_Test.pdb

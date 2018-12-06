@@ -1,0 +1,6 @@
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\Data\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+C:\Users\laura.cortes.lozano\source\repos\ViabilizadorFinanciero\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
